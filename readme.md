@@ -1,5 +1,7 @@
 # Création d'un CV en Json #
 
+. Symfony 7.1.up-7
+
 . CV factice en Json
 
 . AssetMapper
@@ -19,3 +21,5 @@ symfony console importmap:require alpinejs
 
 https://hyperui.dev/
 https://js.hyperui.dev/
+
+Amusez vous bien !

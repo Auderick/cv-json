@@ -3,6 +3,8 @@
 {% block title %}CV{% endblock %}
 
 {% block body %}
-{{ dump(cv) }}
+
+{% include 'cv/_hero.html.twig' %}
+{% include 'cv/_experience.html.twig' %}
 
 {% endblock %}
